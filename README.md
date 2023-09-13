@@ -12,9 +12,9 @@
 
 > [!IMPORTANT]
 npm install :
-1. nodemon
-1. express
-1. dotenv (in root create .env file)
+1. npm install nodemon
+1. npm install express
+1. npm install dotenv (in root create .env file)
 
         
 * and install postman or apidog or firecamp softwere for test restful api 
