@@ -7,9 +7,9 @@ port : 3000
 home :  http://localhost:3000/
 api :  http://localhost:3000/api/user?
 
-**befor run this project : **
+***befor run this project :***
 
-npm install 
+> [!IMPORTANT]npm install 
 1. nodemon
 1. express
 1. dotenv (in root create .env file)
