@@ -12,7 +12,7 @@
 
 > [!IMPORTANT]
 npm install :
-1. npm install nodemon
+1. npm install nodemon 
 1. npm install express
 1. npm install dotenv (in root create .env file)
 
