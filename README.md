@@ -10,9 +10,9 @@ api :  http://localhost:3000/api/user?
 befor run this project : 
 
 npm install 
-[^1] nodemon
-[^2] express
- [^3]dotenv (in root create .env file)
+1. nodemon
+1. express
+1. dotenv (in root create .env file)
 
         
-* install postman or apidog or firecamp for test restful api 
+* and install postman or apidog or firecamp softwere for test restful api 
