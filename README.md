@@ -14,7 +14,7 @@
 npm and init and inistall thise package :
 1. npm install nodemon 
 1. npm install express
-1. npm install dotenv (in root create .env file)
+1. npm install dotenv (in root project create .env file)
 
         
 * and install postman or apidog or firecamp softwere for test restful api 
