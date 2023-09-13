@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>test</title>
+<script>
+
+ function test(){
+
+    fetch('api/user')
+      .then(response => response.json())
+      .then(data => {
+      console.log(data);
+      document.getElementById("user1").innerHTML = 
+      '<br>name:- '+ data[1].name + 
+      '<br>id :- '+ data[1].id
+       
+      });
+ }
+
+
+</script>
+</head>
+<body>
+    <div>Welcome to api project index home</div>
+
+     
+    <input type="button" value="show" onclick="test()">
+
+    <div id="user1">
+
+    </div>
+
+</body>
+</html>
