@@ -9,7 +9,8 @@ api :  http://localhost:3000/api/user?
 
 ***befor run this project :***
 
-> [!IMPORTANT]npm install 
+> [!IMPORTANT]
+npm install :
 1. nodemon
 1. express
 1. dotenv (in root create .env file)
