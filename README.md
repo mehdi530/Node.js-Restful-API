@@ -1,6 +1,6 @@
 # NodejsAPI
 
-node.js Restful api sample
+node.js Restful api sample ( use array as db ) 
 
 befor run this project : 
 
