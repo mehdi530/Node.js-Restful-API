@@ -5,7 +5,7 @@
 - [ ] CRUD user array 
 - [ ] port : 3000 
 - [ ] home :  http://localhost:3000/
-- [ ] api :  http://localhost:3000/api/user?
+- [ ] api :  http://localhost:3000/api/user with set id http://localhost:3000/api/user/1
 
 ***befor run this project :***
 
